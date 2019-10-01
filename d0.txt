@@ -2,7 +2,7 @@ Team Member Names: Maxwell Yang, Eric Yan, Zhe Li, Hao Wang, Yifei Wang
 
 Team Member Student IDs: 96245428, 22548424, 88792486, 97951503, 26530162
 
-Team Member ugrad.cs.ubc.ca Logins: r0g2b, g5h2b, d3q1b, x9e2b, yifei98
+Team Member ugrad.cs.ubc.ca Logins: shukany, ericy676, d3q1b, x9e2b, yifei98
 
 Initial level commitment (80%, 90%, or 100%): 100%
 

@@ -10,7 +10,7 @@ We name the language to be **"CSEdu"**. The reason why we want to create this ne
 We will apply the method learnt in CPSC311 and use **plai** in DrRacket to create CSEdu. We will first disign the concrete syntax of the language, which will be available in future releases. Then, we will work on designing the appropriate datatype and the parser for parsing expressions in concrete syntax to our abstract syntax. Finally, we construct the interpreter for CSEdu. The specific definition of data type and function definition will follow the CPSC110 HtDD and HtDF recipes, which guarantees that the code is well documented and thoroughly tested. 
 
 ## Deliverables
-Currently, we are working on d0 to specify the milestones and propose our idea. The due for d0 is **Oct 2nd, 2019 at noon**. The file for d0 is **d0.txt** in the repository.
+Currently, we are working on d1 to propose our project. The due for d1 is **Oct 18th, 2019 at noon**. The file for d1 is **project-proposal.pdf** which will be generated based on the **project-proposal.docx** in the repository.
 
 ### d0: Project Commit
 #### Requirements
@@ -78,4 +78,4 @@ The proposal lays out a clear, low-risk approach to meeting the 80% level projec
 The proposal lists three (or more) documents that serve as promising starting points for the team to work from as they explore the literature and documentation around their project for their background report.
 This deliverable is limited to four pages (with reasonable font/margin sizes, e.g., as in the ACM format above). We prefer a significantly shorter document, however. Practice brevity! Shoot for 2.5 pages.
 
-This milestone may be resubmitted once (at the next milestone) for full credit as long as the team earned at least 8 points on the first submission.
+**This milestone may be resubmitted once (at the next milestone) for full credit as long as the team earned at least 8 points on the first submission.**

@@ -10,7 +10,7 @@ We name the language to be **"CSEdu"**. The reason why we want to create this ne
 We will apply the method learnt in CPSC311 and use **plai** in DrRacket to create CSEdu. We will first disign the concrete syntax of the language, which will be available in future releases. Then, we will work on designing the appropriate datatype and the parser for parsing expressions in concrete syntax to our abstract syntax. Finally, we construct the interpreter for CSEdu. The specific definition of data type and function definition will follow the CPSC110 HtDD and HtDF recipes, which guarantees that the code is well documented and thoroughly tested. 
 
 ## Deliverables
-Currently, we are working on d1 to propose our project. The due for d1 is **Oct 18th, 2019 at noon**. The file for d1 is **project-proposal.pdf** which will be generated based on the **project-proposal.docx** in the repository.
+Currently, we are working on d1 to propose our project. The due for d1 is **Oct 18th, 2019 at noon**. The file for d1 is **project-proposal.md** which will be used to generate the **project-proposal.docx**, which will further be used to generate the **project-proposal.pdf** for submission.
 
 ### d0: Project Commit
 #### Requirements

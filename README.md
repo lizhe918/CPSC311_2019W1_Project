@@ -54,7 +54,7 @@ Submission format is correct, e.g., all members submitted identical plain text f
 Proposed project(s)-of-interest show: thought about a range of different project options, initial effort at exploring the proposed options, and the potential of growing into a proposal.
 This milestone may not be resubmitted at a later time.
 
-### d1 Project Proposal
+### d1: Project Proposal
 Your proposal lays out the project type you have chosen, the particular project topic you’re interested in (e.g., for the project type that changes the semantics of a language: which language, what change, and why), and sketches a plan for fulfilling the subsequent milestones, particularly Background Research Report and Poster. Your proposal shows that your team has laid the groundwork to succeed in these milestones, including specifying the key high-level goals of the project you’d perform were you going to the 100% level, finding useful starting points to explore the literature and documentation surrounding the project, and describing examples of how you imagine that project working.
 
 #### Deliverable
